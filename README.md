@@ -1,1 +1,1 @@
-*A project to learn how to use Git and Github*
+*A project to learn how to use Git and Github.*
